@@ -1,8 +1,4 @@
-package project;
-
-/**
- * Created by zodyac on 4/23/2016.
- */
+ 
 public class DVD {
 
     // ------------------------------------------------------------------------
@@ -44,11 +40,8 @@ public class DVD {
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-
         DVD dvd = (DVD) o;
-
         return movieName.equals(dvd.movieName);
-
     }
 
     @Override

@@ -1,8 +1,4 @@
-package project;
 
-/**
- * Created by zodyac on 4/23/2016.
- */
 public class LinkedList<T> implements ListInterface<T> {
 
     // ========================================================================
@@ -13,7 +9,7 @@ public class LinkedList<T> implements ListInterface<T> {
     private Node firstNode;
     private int numberOfEntries;
 
-    // Contructor
+    // Constructor
     public LinkedList() {
         initializeDataFields();
     }

@@ -1,10 +1,7 @@
-package project;
 
 import java.util.Arrays;
 
-/**
- * Created by zodyac on 4/23/2016.
- */
+
 public class Customer extends PersonType {
 
 
