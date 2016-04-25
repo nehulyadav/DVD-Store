@@ -21,7 +21,8 @@ The programming requirement tells us that the DVD store has two major components
  Lists of the DVDs currently rented by the customers
 
 
-SOLUTION TO THE PROBELM
+SOLUTION TO THE PROBELM                     
+
 I developed the program in two parts. 
 In Part 1, I designed, implemented, and tested the DVD component. 
 In Part 2, I designed and implemented the customer component, which is then added to the DVD component developed in Part 1. 
