@@ -1,7 +1,7 @@
 # DVD-Store
 A virtual DVD store in Java that implements a singly linked list.
 
-OVERVIEW OF THE PROBLEM
+OVERVIEW OF THE PROBLEM                  
 For a family or an individual, a favorite place to go on weekends or holidays is to a DVD store to rent movies. 
 A new DVD store in your neighborhood is about to open. However, it does not have a program to keep track of its DVDs and customers. The store managers want someone to write a program for their system so that the DVD store can function. The program should be able to perform the following operations:
 
